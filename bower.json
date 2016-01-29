@@ -1,7 +1,7 @@
 {
   "name": "financial-calculator",
   "description": "Methods that perform financial calculations",
-  "main": "index.js",
+  "main": "indexBower.js",
   "authors": [
     "Anthony Briglia"
   ],
