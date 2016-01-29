@@ -1,0 +1,20 @@
+{
+  "name": "financial-calculator",
+  "description": "Methods that perform financial calculations",
+  "main": "index.js",
+  "authors": [
+    "Anthony Briglia"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
